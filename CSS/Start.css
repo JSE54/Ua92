@@ -1,0 +1,10 @@
+body {
+background-color: gray;
+color: white;
+}
+h1 {
+color: navy;
+margin-left: 20px;
+font-size: 25px;
+font-style: italic;
+}
